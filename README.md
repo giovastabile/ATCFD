@@ -12,6 +12,16 @@ Before using the docker container you need to install docker into your system.
 git clone https://github.com/giovastabile/ATCFD
 ```
 
+Then:
+
 ```
 cd ATCFD
+chmod +x openfoam-docker
 ```
+
+After that you can activate docker using the OpenFOAM folder.
+
+```
+./openfoam-docker -dir=OpenFOAM
+```
+
