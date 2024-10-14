@@ -9,7 +9,7 @@ Before using the docker container you need to install docker into your system.
 
 
 ```
-git clone https://github.com/giovastabile/ATCFD
+git clone https://github.com/giovastabile/CFD2024
 ```
 
 Then:
